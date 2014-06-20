@@ -17,6 +17,7 @@
 - [ ] Collecte (ex: présenter l'atelier et le lancer / faciliter)
 - [ ] Priorisation (ex: proposer de voter sur les sujets)
 - [ ] Décider quoi faire (ex: faciliter les échanges sur les sujets les plus prioritaires)
+- [ ] [ROTI et/ou debrief de la rétro]
 - [ ] [Se quitter sur "qui est le prochain à prendre la casquette scrummaster"]
 
 ### Cloture "administrative" du sprint
