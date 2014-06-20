@@ -5,7 +5,7 @@
 * Penser à capitaliser au fur et à mesure (moins de travail pour la fin de la journée, équilibre à trouver sur le temps passé en groupe)
 
 - [ ] S'assurer que le rendez vous est clair : heure + lieu (ex: invitation calendar)
-- [ ] Dupliquer le template de CR
+- [ ] S'assurer que le document de capitalisation de la rétro est prêt à recevoir les infos (ex: dupliquer le template de CR)
 - [ ] Réfléchir à un atelier qui serait approprié pour ce sprint (Exemples : SpeedBoat, Keep/Drop/Start/Question, Mad/Sad/Glad, 5P, 4L etc.)
 - [ ] Avoir sous le coude le plan d'action de la rétro précédente
 - [ ] Préparer l'ordre du jour : timebox / étapes / ateliers http://www.estherderby.com/tag/retrospectives http://www.agilex.fr/2012/09/les-3-etapes-de-la-retrospective/
