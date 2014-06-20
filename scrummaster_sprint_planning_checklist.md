@@ -1,3 +1,6 @@
+* Ceci est une checklist que j'ai mis au point pour notre rituel de planification, il peut au mieux vous inspirer :)
+* les actions que je ne réalise pas systématiquement sont notées entre crochets
+
 ### Les questions à se poser avant
 
 - [ ]  Est ce que l'équipe est informée de **l'heure et du lieu** ou modalité de la planification de sprint ? (ex: invitation calendar)
@@ -15,8 +18,8 @@
 - [ ]  Faciliter la réponse à la question: "Quel est l'**objectif du sprint** ?"
 - [ ]  Obtenir l'accord sur la **disponibilité de chacun** : combien de jour chacun pense pouvoir engager dans le sprint ?
 - [ ]  Faire le point sur les **actions d'amélioration de la rétrospective** précédente
-- [ ]  Point sur la prochaine livraison: qui livre & quand ?
-- [ ]  Rappeler la (ou une) story étalon
+- [ ]  [Point sur la prochaine livraison: qui livre & quand ?]
+- [ ]  [Rappeler la (ou une) story étalon]
 - [ ]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
 - [ ]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
 - [ ]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
