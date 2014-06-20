@@ -1,4 +1,3 @@
-
 ###  Avant
 
 - [ ] S'assurer que l'invitation est envoyée et que le lieu et l'heure sont clairement identifiées (ex: Invitation Google - ouvert à qui veut)

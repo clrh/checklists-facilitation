@@ -1,4 +1,3 @@
-
 ### Avant
 
 - [ ]  Est ce que l'équipe est informée de **l'heure et du lieu** ou modalité de la planification de sprint ? (ex: invitation calendar)

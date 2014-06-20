@@ -26,6 +26,7 @@
 - [ ] Communiquer / afficher le CR de la rétrospective publique
 
 ### Notes
+
 * L'objectif du scrummaster est de créer un espace d'expression, pas de dicter ou de faire une synthèse
 * en sortir avec un plan d'action, un compte rendu du sprint efficace à afficher
 * Penser à capitaliser au fur et à mesure (moins de travail pour la fin de la journée, équilibre à trouver sur le temps passé en groupe)
