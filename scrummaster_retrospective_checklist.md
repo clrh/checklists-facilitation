@@ -1,8 +1,5 @@
 ### Avant
 
-* L'objectif du scrummaster est de créer un espace d'expression, pas de dicter ou de faire une synthèse
-* en sortir avec un plan d'action, un compte rendu du sprint efficace à afficher
-* Penser à capitaliser au fur et à mesure (moins de travail pour la fin de la journée, équilibre à trouver sur le temps passé en groupe)
 
 - [ ] S'assurer que le rendez vous est clair : heure + lieu (ex: invitation calendar)
 - [ ] S'assurer que le document de capitalisation de la rétro est prêt à recevoir les infos (ex: dupliquer le template de CR)
@@ -27,3 +24,8 @@
 - [ ] mise à jour du burndown produit (global) et capitalisation des métriques générales
 - [ ] [vérifier que le backlog est à jour et supprimer les cadavres (ex: mettre le statut "terminé" pour les stories terminées restantes, suppression ou déplacement tickets)]
 - [ ] Communiquer / afficher le CR de la rétrospective publique
+
+### Notes
+* L'objectif du scrummaster est de créer un espace d'expression, pas de dicter ou de faire une synthèse
+* en sortir avec un plan d'action, un compte rendu du sprint efficace à afficher
+* Penser à capitaliser au fur et à mesure (moins de travail pour la fin de la journée, équilibre à trouver sur le temps passé en groupe)

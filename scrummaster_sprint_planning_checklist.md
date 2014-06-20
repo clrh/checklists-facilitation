@@ -1,7 +1,5 @@
-* Ceci est une checklist que j'ai mis au point pour notre rituel de planification, il peut au mieux vous inspirer :)
-* les actions que je ne réalise pas systématiquement sont notées entre crochets
 
-### Les questions à se poser avant
+### Avant
 
 - [ ]  Est ce que l'équipe est informée de **l'heure et du lieu** ou modalité de la planification de sprint ? (ex: invitation calendar)
 - [ ]  Est ce que le **board de ce sprint est prêt** à recevoir les informations ? (ex: board numérique, papiers & postits)
