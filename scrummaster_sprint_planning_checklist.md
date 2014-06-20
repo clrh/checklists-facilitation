@@ -8,7 +8,7 @@
 - [ ]  Est ce que le **compte rendu ou autre document sont prêts** pour y glisser les informations ? (ex: page wiki, burndown réinitialisé, tableau capacité)
 - [ ]  Est ce que le **matériel est prêt dans la salle** pour que la réunion commence à l'heure (rétro / pc / micro) et est ce que j'ai tout ce qui sera nécessaire (papier, postits, feutres)?
 - [ ]  Est ce que le **PO est clair dans sa vision** du sprint ?
-- [x]  Est ce que **l'ordre du jour est clair dans ma tête** pour que tout se déroule sans accro (timebox, etc.)?
+- [ ]  Est ce que **l'ordre du jour est clair dans ma tête** pour que tout se déroule sans accro (timebox, etc.)?
 
 ### Pendant
 
