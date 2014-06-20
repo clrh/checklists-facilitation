@@ -12,7 +12,7 @@
 - [ ]  Est ce que **tout le monde est bien là** et mentalement présent ? (checkin)
 - [ ]  Annoncer la **timebox** (trouver un timekeeper)
 - [ ]  Proposer au PO de faire un **"Point vision à moyen terme"**
-- [ ]  Faciliter la réponse à la question: “Quel est l'**objectif du sprint** ?”
+- [ ]  Faciliter la réponse à la question: "Quel est l'**objectif du sprint** ?"
 - [ ]  Obtenir l'accord sur la **disponibilité de chacun** : combien de jour chacun pense pouvoir engager dans le sprint ?
 - [ ]  Faire le point sur les **actions d'amélioration de la rétrospective** précédente
 - [ ]  (Point sur la prochaine livraison: qui livre & quand ?)
