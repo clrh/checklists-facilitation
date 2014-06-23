@@ -22,4 +22,4 @@
 - [x]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
 - [x]  Confirmer l'heure du standup et rétro ou **autre rendez vous du sprint** (story time ? etc.)
 - [x] [ROTI et/ou debrief de la planif]
-- [ ]  Cloturer
+- [x]  Cloturer
