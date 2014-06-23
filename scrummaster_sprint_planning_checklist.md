@@ -17,7 +17,7 @@
 - [x]  Faire le point sur les **actions d'amélioration de la rétrospective** précédente
 - [x]  [Point sur la prochaine livraison: qui livre & quand ?]
 - [x]  [Rappeler la (ou une) story étalon]
-- [ ]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
+- [x]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
 - [ ]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
 - [ ]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
 - [ ]  Confirmer l'heure du standup et rétro ou **autre rendez vous du sprint** (story time ? etc.)
