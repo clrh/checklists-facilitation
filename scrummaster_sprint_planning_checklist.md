@@ -19,7 +19,7 @@
 - [x]  [Rappeler la (ou une) story étalon]
 - [x]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
 - [x]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
-- [x]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
+- [ ]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
 - [ ]  Confirmer l'heure du standup et rétro ou **autre rendez vous du sprint** (story time ? etc.)
 - [ ] [ROTI et/ou debrief de la planif]
 - [ ]  Cloturer
