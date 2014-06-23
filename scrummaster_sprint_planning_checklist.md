@@ -21,5 +21,5 @@
 - [x]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
 - [x]  [Y a t il un accord ou une modification de la **définition du terminé** à apporter ?]
 - [x]  Confirmer l'heure du standup et rétro ou **autre rendez vous du sprint** (story time ? etc.)
-- [x] [ROTI et/ou debrief de la planif]
+- [ ] [ROTI et/ou debrief de la planif]
 - [ ]  Cloturer
