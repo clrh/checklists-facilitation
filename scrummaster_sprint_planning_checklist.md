@@ -9,7 +9,7 @@
 
 ### Pendant
 
-- [x]  Est ce que **tout le monde est bien là** et mentalement présent ? (checkin)
+- [ ]  Est ce que **tout le monde est bien là** et mentalement présent ? (checkin)
 - [x]  Annoncer la **timebox** (trouver un timekeeper)
 - [x]  Proposer au PO de faire un "Point **vision à moyen terme**"
 - [x]  Faciliter la réponse à la question: "Quel est l'**objectif du sprint** ?"
