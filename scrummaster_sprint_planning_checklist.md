@@ -1,7 +1,7 @@
 ### Avant
 
 - [x]  Est ce que l'équipe est informée de **l'heure et du lieu** ou modalité de la planification de sprint ? (ex: invitation calendar)
-- [ ]  Est ce que le **board de ce sprint est prêt** à recevoir les informations ? (ex: board numérique, papiers & postits)
+- [x]  Est ce que le **board de ce sprint est prêt** à recevoir les informations ? (ex: board numérique, papiers & postits)
 - [x]  Est ce que le **compte rendu ou autre document sont prêts** pour y glisser les informations ? (ex: page wiki, burndown réinitialisé, tableau capacité)
 - [ ]  Est ce que le **matériel est prêt dans la salle** pour que la réunion commence à l'heure (rétro / pc / micro) et est ce que j'ai tout ce qui sera nécessaire (papier, postits, feutres)?
 - [ ]  Est ce que le **PO est clair dans sa vision** du sprint ?
