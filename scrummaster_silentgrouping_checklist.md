@@ -1,5 +1,3 @@
-~~WIP~~
-
 ### Avant
 
 - [ ] une centaine de stories les plus prioritaires avec un titre explicite imprimées et découpées (faire ça autour d'une bière, ça passe plus vite et c'est plus fun)
@@ -9,6 +7,7 @@
 ### Pendant
 
 - [ ] Lancement: Le but du jeu est de faire une *estimation grosse maille de +100 stories en silence*
+- [ ] Consigne: estimation sur le titre seulement, si flou, imaginer l'estimation de la plus petite brique facturable (qui apporte de la valeur à l'utilisateur)
 - [ ] Expliquer déroulement
 - [ ] 2' Prendre 2 stories, poker en équipe pour les placer sur la table (fait office d'étalon pour comparaisons)
 - [ ] 30' À tour de rôle, prendre une story et la placer dans une case
