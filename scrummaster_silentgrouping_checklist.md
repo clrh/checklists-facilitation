@@ -10,6 +10,7 @@
 
 - [ ] Lancement: Le but du jeu est de faire une *estimation grosse maille de +100 stories en silence*
 - [ ] Expliquer déroulement
+- [ ] 2' Prendre 2 stories, poker en équipe pour les placer sur la table (fait office d'étalon pour comparaisons)
 - [ ] 30' À tour de rôle, prendre une story et la placer dans une case
 - [ ] 30' Bataille, déplacer les stories si vous pensez qu'elles le méritent *À 15': Secouer !!!* "chacun a-t-il passé en revue toutes les cartes ? reste-t-il des cartes qui sont mal placées d’au moins 2 colonnes ? est-ce que les proportions sont bonnes ? avez-vous bien compris les fonctionnalités ? c’est bon, c’est terminé ? pensez-vous que le pilotage du reste-à-faire peut démarrer sur ces chiffres ?"
 - [ ] 10' Debrief, noter avec un stabilo les histoires que vous ne comprenez pas
