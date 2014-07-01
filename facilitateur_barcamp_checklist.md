@@ -1,4 +1,3 @@
-WIPPPP
 
 ### Objectifs
 
