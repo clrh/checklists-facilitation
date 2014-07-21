@@ -1,4 +1,3 @@
-
 ### Objectifs
 
 * Structurer / donner un cadre aux échanges

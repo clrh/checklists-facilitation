@@ -15,7 +15,7 @@
 - [ ]  Faciliter la réponse à la question: "Quel est l'**objectif du sprint** ?"
 - [ ]  Obtenir l'accord sur la **disponibilité de chacun** : combien de jour chacun pense pouvoir engager dans le sprint ?
 - [ ]  Faire le point sur les **actions d'amélioration de la rétrospective** précédente
-- [ ]  [Point sur la prochaine livraison: qui livre & quand ?]
+- [ ]  [Point sur les rôles: qui livre & quand ? qui est rm ? etc.]
 - [ ]  [Rappeler la (ou une) story étalon]
 - [ ]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
 - [ ]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
