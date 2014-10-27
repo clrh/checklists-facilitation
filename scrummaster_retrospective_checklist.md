@@ -11,6 +11,7 @@
 
 - [ ] Check-in / Lancement (ex: Voter la "météo")
 - [ ] Point sur les métriques générales (ex: consommés / vélocité / etc.)
+- [ ] Suivi du plan d'action décidé précédemment
 - [ ] Collecte (ex: présenter l'atelier et le lancer / faciliter)
 - [ ] Priorisation (ex: proposer de voter sur les sujets)
 - [ ] Décider quoi faire (ex: faciliter les échanges sur les sujets les plus prioritaires)
