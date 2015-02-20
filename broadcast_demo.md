@@ -3,9 +3,10 @@
 1/ Start a hangout on air : https://plus.google.com/hangouts
 - starts = later 
 - audience = public
-- description = lien vers l'ordre du jour (ex: http://wiki.bokeh-library-portal.org/index.php/7.1.0)
+- description = lien vers l'ordre du jour 
 
-2/ Mise à jour de l'ordre du jour et lien croisé avec la démo (ex: http://wiki.bokeh-library-portal.org/index.php/7.1.0)
+2/ Mise à jour de l'ordre du jour et lien croisé avec la démo 
+(ex: http://wiki.bokeh-library-portal.org/index.php/7.1.0)
 
 #### Le jour j
 
