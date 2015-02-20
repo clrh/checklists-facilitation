@@ -13,9 +13,9 @@
 - [ ]  Annoncer la **timebox** (trouver un timekeeper)
 - [ ]  Proposer au PO de faire un "Point **vision à moyen terme**"
 - [ ]  Faciliter la réponse à la question: "Quel est l'**objectif du sprint** ?"
-- [ ]  Obtenir l'accord sur la **disponibilité de chacun** : combien de jour chacun pense pouvoir engager dans le sprint ?
+- [ ]  Obtenir l'accord sur la **disponibilité de chacun** : combien de jour chacun pense pouvoir engager dans le sprint ? Mettre à jour la capacité de l'équipe
+- [ ] Si des rôles doivent être décidés, c'est le moment: qui s'occupe de la maintenance / qui fait la livraison / qui s'occupe de la release > quels sont les périmètres d'action de chacun.
 - [ ]  Faire le point sur les **actions d'amélioration de la rétrospective** précédente
-- [ ]  [Point sur les rôles: qui livre & quand ? qui est rm ? etc.]
 - [ ]  [Rappeler la (ou une) story étalon]
 - [ ]  En prenant les stories les plus prioritaires, **animer un planning poker (ou pas)**, découper en tâche (si besoin) et compléter le taskboard
 - [ ]  Parler de (converger vers) **l'engagement de l'équipe sur le contenu du sprint**
