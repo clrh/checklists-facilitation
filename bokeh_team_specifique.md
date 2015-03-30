@@ -36,3 +36,4 @@ Du 5 au 16 janvier:
 - dev Bokeh: Matts (1j hors Bokeh pour ...)
 - hl Bokeh: Alex (1j hors Bokeh pour ...)
 ```
+- [ ] récapituler les informations dans l'onglet "Résumé" du document "Métriques Bokeh"
