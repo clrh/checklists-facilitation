@@ -1,7 +1,7 @@
 ## Préparation de la fin du sprint
 
 - [ ] Initier l'ordre du jour de la démo http://wiki.bokeh-library-portal.org/index.php/Prochaine_d%C3%A9monstration
-- [ ] Créer le rendez vous de la démo avec le compte afibre.bokeh (g+)
+- [ ] Créer le rendez vous de la démo avec le compte bokeh.afibre (g+)
 - [ ] Communiquer l'url de la démo à bokeh@
 - [ ] Rappeler la saisie des temps, vérifier, boucler
 
