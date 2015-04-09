@@ -7,7 +7,7 @@
 
 ## Fin d'un sprint après la démo/rétro
 
-- [ ] CR de sprint dans la forge http://forge.afi-sa.fr/projects/opac3/wiki/Sprintxx basé sur forge.afi-sa.fr/projects/opac3/wiki/SprintTemplate et mise à jour de forge.afi-sa.fr/projects/opac3/wiki/En_cours 
+- [ ] CR de sprint dans la forge http://forge.afi-sa.fr/projects/opac3/wiki/Sprintxx basé sur http://forge.afi-sa.fr/projects/opac3/wiki/SprintTemplate et mise à jour de forge.afi-sa.fr/projects/opac3/wiki/En_cours 
 - [ ] ajouter les story status au board
 - [ ] mail à bokeh@ pour donner le lien du CR, le lien de la démo, dire qui est de hl, donner le lien du board planifié le matin
 Exemple:
