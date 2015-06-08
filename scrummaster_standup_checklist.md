@@ -8,6 +8,7 @@
 - [ ] [timekeeper les interventions / avoir un timekeeper]
 - [ ] faire un point sur le terminer et stocks en cours
 - [ ] tour de table en répondant à trois questions: qu'ai je accompli hier ?  qu'est ce que je m'engage à faire aujourd'hui ?  quels sont les problèmes je rencontre.
+- [ ] fluidifier les stories en cours - proposer espace d'échange sur mise en commun connaissance / feedback plus tôt fonctionnelle et/ou technique
 
 ### Notes
 
