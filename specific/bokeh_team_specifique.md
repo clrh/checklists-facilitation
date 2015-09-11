@@ -43,5 +43,5 @@ Du 5 au 16 janvier:
 - l'évaporation
 - les bonus points
 - la sandbox
-- capacité et rythme de travail multi-produits
-- 
+- capacité et rythme de travail multi produits
+- story time
