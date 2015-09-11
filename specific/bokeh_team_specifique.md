@@ -37,3 +37,11 @@ Du 5 au 16 janvier:
 - hl Bokeh: Alex (1j hors Bokeh pour ...)
 ```
 - [ ] récapituler les informations dans l'onglet "Résumé" du document "Métriques Bokeh"
+ 
+## Des pratiques "adaptées" de notre équipe
+
+- l'évaporation
+- les bonus points
+- la sandbox
+- capacité et rythme de travail multi-produits
+- 
