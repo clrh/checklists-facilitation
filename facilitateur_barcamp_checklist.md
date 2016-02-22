@@ -18,11 +18,17 @@
 * Les animaux totems :
   * Les papillons prennent une pause ou réfléchissent.
   * Les abeilles font circuler les idées d'atelier en ateliers.
+  * La giraffe qui se tord le cou pour regarder si c'est mieux ailleurs.
 
 ### Go
 
-- [ ] Lancement: kesako ? règles, principes, logistique
-- [ ] Émergence: libérer l'écriture des sujets, avec présentation et dépôt sur le board
-- [ ] Convergence: construire l'agenda, faciliter la priorisation des sujets
+- [ ] Construire le tableau (Prévoir pauses, temps de debrief à tous et temps de cloture); Installer les espaces etc.
+- [ ] Mettre les gens en cercle, attendre le silence
+- [ ] "Bonjour, nous sommes là pour..."
+- [ ] "Prenez conscience des personnes autour de vous, des cerveaux pour travailler ensemble..."
+- [ ] Montrer comment poser un sujet
+- [ ] Les règles, les animaux, les 2 pieds
+- [ ] Émergence: libérer l'écriture des sujets 
+- [ ] Place de marché "est ce que ça vous convient comme planning ?... " Convergence: construire l'agenda, faciliter la priorisation des sujets
 - [ ] Accompagner le déroulement pendant la durée de l'open space
 - [ ] Cloture
